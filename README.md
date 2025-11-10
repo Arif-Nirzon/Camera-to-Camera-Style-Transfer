@@ -9,7 +9,7 @@ multiple 256x256 patches were taken from each photo to create a dataset of 55,00
 
 ## Model Used
 StarGAN v2 (https://arxiv.org/abs/1912.01865)  
-the code initial code taken from: https://www.kaggle.com/code/kimjiyeop/stargan-v2
+the initial code taken from: https://www.kaggle.com/code/kimjiyeop/stargan-v2
 
 ## Results
 ### Single source to many reference
